@@ -1,0 +1,15 @@
+.order{
+    display: flex;
+    flex-direction:column ;
+    flex: 2;
+    border: 1px solid red;
+}
+.order-title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.total{
+    margin-top: 100px;
+    margin-left: 20px;
+}
